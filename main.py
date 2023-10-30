@@ -35,4 +35,4 @@ if __name__ == "__main__":
         print("Success! Press enter to exit.")
         input()
     else:
-        print("Program terminated")
+        print("Program terminated.")
